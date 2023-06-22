@@ -1,1 +1,2 @@
-require("ame")
+require("config")
+
