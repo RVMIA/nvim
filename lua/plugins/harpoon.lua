@@ -1,5 +1,6 @@
 return {
 	"theprimeagen/harpoon",
+    lazy = true,
 	version = false,
     config = function()
 vim.keymap.set("n", "<leader>a", require("harpoon.mark").add_file)
