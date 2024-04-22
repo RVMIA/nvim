@@ -1,5 +1,6 @@
 return {
     "tpope/vim-fugitive",
+    lazy = true,
     version = false,
     config = function()
 
